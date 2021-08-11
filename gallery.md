@@ -18,4 +18,4 @@
 
 | | |
 |:-:|:-:|
-| <img src="img/bob_at_work.jpeg" width="400"/> | <img src="img/bob_internals.jpeg" width="400"/> |
+| <img src="img/bob_at_work.jpg" width="400"/> | <img src="img/bob_internals.jpg" width="400"/> |
