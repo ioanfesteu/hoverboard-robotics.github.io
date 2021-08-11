@@ -13,3 +13,9 @@
 |:-:|:-:|
 | <img src="img/jose_front.jpeg" width="400"/> | <img src="img/jose_side.jpeg" width="400"/> |
 | <img src="img/jose_tow_truck.jpeg" width="400"/> | <a href="https://youtu.be/tB5UyXQKMec"><img src="img/jose_yt_thumbnail.jpeg" width="400"/></a> |
+
+## Bob
+
+| | |
+|:-:|:-:|
+| <img src="img/bob_at_work.jpeg" width="400"/> | <img src="img/bob_internals.jpeg" width="400"/> |
